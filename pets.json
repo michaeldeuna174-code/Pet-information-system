@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Milo",
+        "species": "Dog",
+        "breed": "Golden Retriever",
+        "age_years": 3,
+        "status": "Available for Adoption",
+        "care_tip": "Loves active exercise and regular bathing."
+    },
+    {
+        "id": 2,
+        "name": "Luna",
+        "species": "Cat",
+        "breed": "Persian",
+        "age_years": 2,
+        "status": "Adopted",
+        "care_tip": "Requires daily fur brushing to prevent tangles."
+    },
+    {
+        "id": 3,
+        "name": "Coco",
+        "species": "Bird",
+        "breed": "Cockatiel",
+        "age_years": 1,
+        "status": "Available for Adoption",
+        "care_tip": "Keep cage clean and provide fresh water daily."
+    },
+    {
+        "id": 4,
+        "name": "Gidged",
+        "species": "Reptile",
+        "breed": "Chameleon",
+        "age_years": 2,
+        "status": "Available for Adoption",
+        "care_tip": "Keep cage clean and maintain proper lighting."
+    }
+]

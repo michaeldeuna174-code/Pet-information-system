@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Information System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <div class="system-tag">Pet Management Portal</div>
+        <h2>Pet Information System</h2>
+        
+        <div class="pet-box">
+            <div id="pet-name" class="pet-title">Ready to retrieve pet profile...</div>
+            <p id="pet-species" class="pet-detail"></p>
+            <p id="pet-breed" class="pet-detail"></p>
+            <p id="pet-status" class="pet-detail"></p>
+            <p id="pet-care" class="pet-detail care-note"></p>
+        </div>
+
+        <button onclick="fetchPetInfo()">Get Random Pet Profile</button>
+        <p id="status-indicator" class="status">Status: Ready</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
