@@ -34,5 +34,15 @@
         "age_years": 2,
         "status": "Available for Adoption",
         "care_tip": "Keep cage clean and maintain proper lighting."
+    },
+    {
+        "id": 5,
+        "name": "pepper",
+        "species": "Dog",
+        "breed": "Dalmatian",
+        "age_years": 2,
+        "status": "Available for adaption",
+        "care_tip": "need specific care for their diet, exercise, and health."
+
     }
 ]
